@@ -1856,6 +1856,8 @@ Phase 4: Booking engine and customer accounts
 - Add property based tests for slot engine
 - Validate RLS and auth do not block booking flows
 
+**Status 2025-11-20**: Phasen 0-4 sind im Repo umgesetzt (Next.js + Tailwind Scaffold, Supabase-Schema mit RLS, Design System, Public Pages, Buchungsflow mit Slot-Engine und Kundenportal-Basis). Stripe/Resend/Webhooks folgen in Phase 5.
+
 Phase 5: Shop, checkout and payments
 
 - Implement product listing and detail pages
